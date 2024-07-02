@@ -1,4 +1,4 @@
-![Alt_Text](https://github.com/KevinNourian/Stroke/tree/main/Image)
+![Alt_Text](https://github.com/KevinNourian/Stroke/blob/main/Image/Stroke.PNG)
 # Project File
 Open Stroke.ipynb
 
