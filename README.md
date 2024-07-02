@@ -2,6 +2,9 @@
 # Project File
 Stroke.ipynb
 
+# Deployment
+This project was deployed using Streamlit. The file is in the Streamlit Folder. The Pickle File and the Streamlit file are in the Streamlit Folder of this project.
+
 # Introduction
 A stroke, occurs when the blood supply to part of the brain is disrupted or reduced, depriving brain tissue of oxygen and nutrients. This can happen due to a blockage or rupture of a blood vessel. Without prompt medical attention, strokes can cause permanent brain damage or even death. Immediate treatment is crucial to minimize damage and improve outcomes for stroke patients.
 
